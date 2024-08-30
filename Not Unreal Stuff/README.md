@@ -1,0 +1,2 @@
+# Unreal Project 1
+Model is a baseball pitching machine. It is fully UV mapped for texturing and textures are available. The model is used within My first mobile game and is simply rotated and scaled, other wise the model is static.
