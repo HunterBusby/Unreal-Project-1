@@ -1,2 +1,2 @@
-# Lab Assignment 1
-Model is a baseball pitching machine. It is fully UV mapped for texturing and textures are available. The model is used within My first mobile game and is simply rotated and scaled, other wise the model is static.
+# Lab Assignment 2
+Rigged up the Triangle arm with controls. But now that I'm looking at it, I want to ad mroe distals and maybe another finger.
